@@ -105,3 +105,5 @@ venv.bak/
 
 # Datasets
 MNIST_data/
+Cat_Dog_data/
+F_MNIST_data/
